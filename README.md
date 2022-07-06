@@ -6,31 +6,45 @@ The website link can be found [here](...)
 
 ### Existing Features
 
-- __Navigation Bar__
+- __Homepage__
 
-![Nav Bar](...)
+![Home](...)
 
-- __The landing page image__
+- __About us page__
 
-![Landing Page](...)
+![About us](...)
 
-- __Club Ethos Section__
+- __Products page__
 
-![Club Ethos](...)
+![Products](...)
 
-- __Meetup Times section__
+- __Recipes page__
 
-![Meetup Times](...)
+![Recipes](...)
 
-- __The Footer__ 
+- __Contact page__ 
 
+![Contact](...)
+
+- __Search bar__
+
+![Search bar](...)
+
+- __User icon__
+
+![User icon](...)
+
+- __Basket bag__
+![Basket bag](...)
+
+- __Footer__
 ![Footer](...)
 
-- __Gallery__
+- __Account Sign Up Page__
 
-![Gallery](...)
+![Sign Up](...)
 
-- __The Sign Up Page__
+- __Account Registration Page__
 
 ![Sign Up](...)
 
