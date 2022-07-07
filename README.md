@@ -34,6 +34,35 @@ The website link can be found [here](...)
     -	I can create, read, update and delete orders so that I can manage the orders;
     -	I can see when a customer has made an order or modified their orders so that I can manage the website orders more efficiently.
 
+## Wireframes
+- Home
+
+![Home](https://user-images.githubusercontent.com/83631970/177780251-113436e0-2210-4d01-a73c-5e20dac32723.png)
+
+- About Us
+
+![About us](https://user-images.githubusercontent.com/83631970/177780293-028c5428-bd64-48cf-bcef-95a11d0aaaca.png)
+
+- Products
+
+![Products](https://user-images.githubusercontent.com/83631970/177780308-f117e3cc-f956-4013-9c29-afeb78275300.png)
+
+- Recipes
+
+![Recipes](https://user-images.githubusercontent.com/83631970/177780320-769b18da-7cfc-42cb-9faf-8a006a7b6b3f.png)
+
+- Contact
+
+![Contact](https://user-images.githubusercontent.com/83631970/177780332-711f2371-ab96-4141-8aa9-f17386b27c41.png)
+
+- Account Registration
+
+![Account Registration](https://user-images.githubusercontent.com/83631970/177780339-c36448ff-2096-4d47-8114-eea49dfb60b7.png)
+
+- Account Sign In 
+
+![Account Sign In](https://user-images.githubusercontent.com/83631970/177780350-d1b19f02-65e3-4648-bcaf-a34035b0670e.png)
+
 ## Features 
 
 ### Existing Features
