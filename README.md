@@ -129,7 +129,9 @@ The website link can be found [here](...)
     - [Jslint validator](https://www.jslint.com/)
 - Python
     - [PEP8 validator](http://pep8online.com/)
- 
+
+## Django
+![django instalation](https://user-images.githubusercontent.com/83631970/178005942-6f5d116d-4484-4d10-b2b8-1ea2277f5c95.png)
 
 ## Deployment
 
