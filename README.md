@@ -3,6 +3,13 @@
 
 The website link can be found [here](...)
 
+## Agile methodology
+
+![Agile screenshot](https://user-images.githubusercontent.com/83631970/178001706-18e76799-555c-4f26-8d32-365bcfa28c0d.png)
+
+### Example of task views
+![Agile tasks Screenshot (284)](https://user-images.githubusercontent.com/83631970/178002446-3aa31b05-2b32-4a10-ae88-072eec3653b8.png)
+
 ## User Stories
 - As a Site User/ Customer: 
     -	I can easily navigate through the site so that I can understand its purpose;
